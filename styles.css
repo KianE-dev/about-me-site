@@ -19,12 +19,14 @@ body.song-gen-page
   list-style: none;
   width: 100%;
   background-color: #c0c0c0;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .nav-bar li
 {
   display: inline-block;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
   font-size: 100%;
 }
 a
