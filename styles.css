@@ -17,15 +17,15 @@ body.song-gen-page
 .nav-bar ul
 {
   list-style: none;
-  width: 50%;
-  background-color: #d3d3d3;
+  width: 100%;
+  background-color: #c0c0c0;
 }
 .nav-bar li
 {
   display: inline-block;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 80%;
+  font-size: 100%;
 }
 a
 {
