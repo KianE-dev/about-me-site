@@ -14,3 +14,24 @@ body.song-gen-page
 {
   background-color: #dc7823;
 }
+.nav-bar ul
+{
+  list-style: none;
+  width: 20%;
+  background-color: #d3d3d3;
+}
+.nav-bar li
+{
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20%;
+}
+a
+{
+  text-decoration: none;
+}
+a : visited
+{
+  color: #0000ff;
+}
